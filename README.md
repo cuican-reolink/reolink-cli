@@ -249,6 +249,9 @@ password.
 
 Two ways in, both driving the same runtime as the CLI:
 
+For complete MCP setup, client configuration, target selection, security, and
+troubleshooting, see the [MCP Guide](docs/mcp-guide.md).
+
 - **The skill** — natural language. It teaches the agent the command surface and
   the safety rules, so you say *“point the driveway cam to preset 2, then take a
   snapshot”* or *“let me know if anyone shows up at the door tonight”*. The agent
