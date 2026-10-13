@@ -346,6 +346,8 @@ and delete what you no longer need.
 - overwrite previous binaries in that prefix; nothing else on disk is modified
 - add the prefix to your user `PATH` if it is missing (Windows)
 
+<a id="verifying-a-download"></a>
+
 ### Manual download verification
 
 ```bash
