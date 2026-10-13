@@ -1113,7 +1113,7 @@ command line, not a mode of operation, and it is deliberately absent from
 
 Verify a download against `checksums/v0.11.0.sha256` on `main`, **not** the
 `SHA256SUMS` attached to the release — see
-[Verifying a download](https://github.com/reolink/reolink-cli#verifying-a-download).
+[Manual download verification](https://github.com/reolink/reolink-cli#manual-download-verification).
 
 ## [0.10.8] — 2026-08-04
 
